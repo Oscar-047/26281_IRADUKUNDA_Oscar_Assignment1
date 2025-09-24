@@ -1,31 +1,70 @@
-# Introduction_to_linux
-# Assignment 1 – Introduction to Linux Basic Commands
 
-## Student Info
-- Name: Ndayizeye Steven
-- Student ID: 27165
-- Course: COSC 8312
 
----
-
+## My info
+- Name: IRADUKUNDA Oscar
+- Student ID: 26281
 ## What I Did
-1. Cloned the repository from GitHub.
-2. Created a branch using the required format (`27165_Ndayizeye_steven_assignment1`).
-3. Solved the Linux conceptual questions by writing commands and explanations.
-4. Took screenshots of commands and their outputs.
-5. Pushed my work to my own branch (not the main branch).
 
----
+I created folders and files using Linux commands:
+
+- Made a folder structure: home → myclass → practice → with folders like command, else, and p1
+- Inside p1, made more folders: Hi → p3 → Here
+- Created files: info, Hello, hereweAre, and P3 using the touch command
+- Practiced moving between folders using cd command
+- Used ls -la to see folder contents
+- Copied files using cp command
 
 ## Why I Did It
-- To practice **basic Linux navigation, file handling, and path concepts**.
-- To learn how to use **relative vs absolute paths**.
-- To strengthen understanding of **Git workflow**.
 
----
+- To learn how Linux organizes files and folders
+- To understand the difference between relative and absolute path
+- - To practice basic Linux commands that are used in real jobs
+- To complete my course assignment requirements
+- To prepare for working with servers and systems
 
 ## What I Learned
-- The difference between **relative and absolute paths**.
-- How to use **ls, cd, cp** with different options.
-- The importance of **branching in Git**.
-- The meaning of **colors in the terminal** (directories, executables, files).
+
+- How to create folders inside other folders using mkdir -p
+- How to create empty files using touch
+- The difference between relative paths (like ../../folder) and absolute paths (like /home/user)
+- How to navigate through folders using cd command
+- How to copy files to different locations
+- How to see detailed folder contents with ls -la
+- Basic Git commands to save and share my work
+
+I now feel comfortable creating and managing files in Linux, which is important for IT jobs.
+To create this file in Git Bash:
+bash
+# Go to your repository
+cd ~/Desktop/Introduction_to_linux
+
+
+## What I Did
+
+I created folders and files using Linux commands:
+
+- Made a folder structure: home → myclass → practice → with folders like command, else, and p1
+- Inside p1, made more folders: Hi → p3 → Here
+- Created files: info, Hello, hereweAre, and P3 using the touch command
+- Practiced moving between folders using cd command
+- Used ls -la to see folder contents
+- Copied files using cp command
+
+## Why I Did It
+
+- To learn how Linux organizes files and folders
+- To understand the difference between relative and absolute paths
+- To practice basic Linux commands that are used in real jobs
+- To complete my course assignment requirements
+- To prepare for working with servers and systems
+
+## What I Learned
+
+- How to create folders inside other folders using mkdir -p
+- How to create empty files using touch
+- The difference between relative paths (like ../../folder) and absolute paths (like /home/user)
+- How to navigate through folders using cd command
+- How to copy files to different locations
+- How to see detailed folder contents with ls -la
+- Basic Git commands to save and share my work
+
